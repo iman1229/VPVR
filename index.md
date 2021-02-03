@@ -17,6 +17,15 @@ The VOMS Protocol VR project is a system that seeks to be the first step in brin
 
 The goal of VPVR is to create a platform that can be used to both clinically diagnose concussions, and generate the necessary data with which future projects can train artificial intelligence for automated diagnosis. While the VPVR system administers the VOMS protocol automatically to the patient (with guidance from an attending physician), the eye-tracking sensors within the Vive Pro-Eye headset collect and record information on the patient's eye movements. As eye movement is often noticeably impaired by the presence of a concussion, it is the hope of the VPVR team that this data can be used to train a model that can automatically and accurately detect a concussion at the site in which a concussion has occurred. 
 
+## Interesting VR News
+VR Headset Market Size to reach $20 Billion by 2025
+https://finance.yahoo.com/news/virtual-reality-vr-headsets-market-101000618.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACjhlpJRam4uMZ5z_RvbxIQeo_qIrlKyqUiFE3HBREesHVcLFBPIPILNtUh8OOg2JUWFeVu6InESSIJ4GPOkayTyfRH86fVODCRbyM40KX1-4UFlQmrxQJZlYEHifNu7oRTTS0E_uF14a_vRcxB7qOhG2v-r9cEAzABlwjmEy2_s
+
+Sony Patented Asymmetric VR Gameplay
+https://uploadvr.com/sony-asymmetric-vr-patent/
+
+Recent Research has Allowed for Smaller and More Efficient VR and AR Devices
+https://www.sciencedaily.com/releases/2021/02/210201115943.htm
 
 ## Welcome to GitHub Pages
 
